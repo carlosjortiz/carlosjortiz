@@ -28,10 +28,12 @@
   </a>
 </p>
 
+<br>
+
 <h3 align="center">📊 Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats-alpha-navy-94.vercel.app/api?username=carlosjortiz&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-alpha-navy-94.vercel.app/api/top-langs/?username=carlosjortiz&layout=donut&theme=dark" alt="Top languages" />
+  <img src="https://github-readme-stats-alpha-navy-94.vercel.app/api?username=carlosjortiz&show_icons=true&theme=dark" alt="GitHub Stats" height="215" />
+  <img src="https://github-readme-stats-alpha-navy-94.vercel.app/api/top-langs/?username=carlosjortiz&layout=donut&theme=dark" alt="Top languages" height="215" />
 </p>
 
 <h3 align="center">🤝 Connect with Me</h3>
