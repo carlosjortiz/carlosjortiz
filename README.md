@@ -30,8 +30,8 @@
 
 <h3 align="center">📊 Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosjortiz&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosjortiz&layout=donut&theme=dark" alt="Top languages" />
+  <img src="https://github-readme-stats-alpha-navy-94.vercel.app/api?username=carlosjortiz&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-alpha-navy-94.vercel.app/api/top-langs/?username=carlosjortiz&layout=donut&theme=dark" alt="Top languages" />
 </p>
 
 <h3 align="center">🤝 Connect with Me</h3>
