@@ -13,7 +13,20 @@
 - 🦀 Particularly fond of Rust
 
 <h3 align="center">💪 Skills</h3>
-<p align="center"><img src="https://svgl.app/library/csharp.svg" alt="C#" width="48" height="48" />&nbsp;<img src="https://svgl.app/library/dotnet.svg" alt=".NET" width="48" height="48" />&nbsp;<img src="https://svgl.app/library/nodejs.svg" alt="Node.js" width="48" height="48" />&nbsp;<img src="https://svgl.app/library/typescript.svg" alt="TypeScript" width="48" height="48" />&nbsp;<img src="https://svgl.app/library/javascript.svg" alt="JavaScript" width="48" height="48" />&nbsp;<img src="https://svgl.app/library/python.svg" alt="Python" width="48" height="48" />&nbsp;<img src="https://svgl.app/library/rust.svg" alt="Rust" width="48" height="48" />&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/react_dark.svg"><img src="https://svgl.app/library/react_light.svg" alt="React" width="48" height="48" /></picture>&nbsp;<img src="https://svgl.app/library/tauri.svg" alt="Tauri" width="48" height="48" />&nbsp;<img src="https://svgl.app/library/postgresql.svg" alt="PostgreSQL" width="48" height="48" />&nbsp;<img src="https://svgl.app/library/sql-server.svg" alt="SQL Server" width="48" height="48" />&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/mongodb-icon-dark.svg"><img src="https://svgl.app/library/mongodb-icon-light.svg" alt="MongoDB" width="48" height="48" /></picture>&nbsp;<img src="https://svgl.app/library/docker.svg" alt="Docker" width="48" height="48" />&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/aws_dark.svg"><img src="https://svgl.app/library/aws_light.svg" alt="AWS" width="48" height="48" /></picture>&nbsp;<img src="https://svgl.app/library/git.svg" alt="Git" width="48" height="48" />&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/github_dark.svg"><img src="https://svgl.app/library/github_light.svg" alt="GitHub" width="48" height="48" /></picture>&nbsp;<img src="https://svgl.app/library/linux.svg" alt="Linux" width="48" height="48" /></p>
+
+<h4 align="center">💻 Software Engineering</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,rust,typescript,javascript,python,react,tauri,postgres,mongodb,docker,aws,git,github,arch&perline=8" alt="Software Engineering tech icons" />
+  </a>
+</p>
+
+<h4 align="center">🤖 Automation Engineering</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,matlab&perline=5" alt="Automation Engineering tech icons" />
+  </a>
+</p>
 
 <h3 align="center">📊 Stats</h3>
 <p align="center">
