@@ -4,11 +4,6 @@
   <b>🤖 Automation Engineer</b>   |   <b>💻 Senior Software Engineer</b>
 </p>
 
-<p align="center">
-  <i>"It doesn't point north."</i><br>
-  <i>"No, but it does point to the thing you want most in this world."</i>
-</p>
-
 ### 🧑 About Me
 
 - 🎓 Automatic Engineer from **CUJAE** — Havana, 2019
@@ -18,25 +13,7 @@
 - 🦀 Particularly fond of Rust
 
 <h3 align="center">💪 Skills</h3>
-<p align="center">
-  <img src="https://svgl.app/library/csharp.svg" alt="C#" width="48" height="48" />
-  <img src="https://svgl.app/library/dotnet.svg" alt=".NET" width="48" height="48" />
-  <img src="https://svgl.app/library/nodejs.svg" alt="Node.js" width="48" height="48" />
-  <img src="https://svgl.app/library/typescript.svg" alt="TypeScript" width="48" height="48" />
-  <img src="https://svgl.app/library/javascript.svg" alt="JavaScript" width="48" height="48" />
-  <img src="https://svgl.app/library/python.svg" alt="Python" width="48" height="48" />
-  <img src="https://svgl.app/library/rust.svg" alt="Rust" width="48" height="48" />
-  <img src="https://svgl.app/library/react.svg" alt="React" width="48" height="48" />
-  <img src="https://svgl.app/library/tauri.svg" alt="Tauri" width="48" height="48" />
-  <img src="https://svgl.app/library/postgresql.svg" alt="PostgreSQL" width="48" height="48" />
-  <img src="https://svgl.app/library/sql-server.svg" alt="SQL Server" width="48" height="48" />
-  <img src="https://svgl.app/library/mongodb-icon-light.svg" alt="MongoDB" width="48" height="48" />
-  <img src="https://svgl.app/library/docker.svg" alt="Docker" width="48" height="48" />
-  <img src="https://svgl.app/library/aws_dark.svg" alt="AWS" width="48" height="48" />
-  <img src="https://svgl.app/library/git.svg" alt="Git" width="48" height="48" />
-  <img src="https://svgl.app/library/github_dark.svg" alt="GitHub" width="48" height="48" />
-  <img src="https://svgl.app/library/linux.svg" alt="Linux" width="48" height="48" />
-</p>
+<p align="center"><img src="https://svgl.app/library/csharp.svg" alt="C#" width="48" height="48" />&nbsp;<img src="https://svgl.app/library/dotnet.svg" alt=".NET" width="48" height="48" />&nbsp;<img src="https://svgl.app/library/nodejs.svg" alt="Node.js" width="48" height="48" />&nbsp;<img src="https://svgl.app/library/typescript.svg" alt="TypeScript" width="48" height="48" />&nbsp;<img src="https://svgl.app/library/javascript.svg" alt="JavaScript" width="48" height="48" />&nbsp;<img src="https://svgl.app/library/python.svg" alt="Python" width="48" height="48" />&nbsp;<img src="https://svgl.app/library/rust.svg" alt="Rust" width="48" height="48" />&nbsp;<img src="https://svgl.app/library/react.svg" alt="React" width="48" height="48" />&nbsp;<img src="https://svgl.app/library/tauri.svg" alt="Tauri" width="48" height="48" />&nbsp;<img src="https://svgl.app/library/postgresql.svg" alt="PostgreSQL" width="48" height="48" />&nbsp;<img src="https://svgl.app/library/sql-server.svg" alt="SQL Server" width="48" height="48" />&nbsp;<img src="https://svgl.app/library/mongodb-icon-light.svg" alt="MongoDB" width="48" height="48" />&nbsp;<img src="https://svgl.app/library/docker.svg" alt="Docker" width="48" height="48" />&nbsp;<img src="https://svgl.app/library/aws_dark.svg" alt="AWS" width="48" height="48" />&nbsp;<img src="https://svgl.app/library/git.svg" alt="Git" width="48" height="48" />&nbsp;<img src="https://svgl.app/library/github_dark.svg" alt="GitHub" width="48" height="48" />&nbsp;<img src="https://svgl.app/library/linux.svg" alt="Linux" width="48" height="48" /></p>
 
 <h3 align="center">📊 Stats</h3>
 <p align="center">
