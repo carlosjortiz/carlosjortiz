@@ -31,10 +31,10 @@
 <br>
 
 <h3 align="center">📊 Stats</h3>
-<table align="center" cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td valign="middle"><img src="https://github-readme-stats-alpha-navy-94.vercel.app/api?username=carlosjortiz&show_icons=true&theme=dark" alt="GitHub Stats" /></td>
-    <td valign="middle"><img src="https://github-readme-stats-alpha-navy-94.vercel.app/api/top-langs/?username=carlosjortiz&layout=donut&theme=dark" alt="Top languages" /></td>
+<table align="center" border="0" cellspacing="0" cellpadding="0" frame="void" rules="none" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td valign="middle" style="border: none; padding: 0;"><img src="https://github-readme-stats-alpha-navy-94.vercel.app/api?username=carlosjortiz&show_icons=true&theme=dark" alt="GitHub Stats" /></td>
+    <td valign="middle" style="border: none; padding: 0;"><img src="https://github-readme-stats-alpha-navy-94.vercel.app/api/top-langs/?username=carlosjortiz&layout=donut&theme=dark" alt="Top languages" /></td>
   </tr>
 </table>
 
