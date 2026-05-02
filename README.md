@@ -16,15 +16,15 @@
 
 <h4 align="center">💻 Software Engineering</h4>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,rust,typescript,javascript,python,react,tauri,postgres,mongodb,docker,aws,git,github,arch&perline=8" alt="Software Engineering tech icons" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,rust,typescript,javascript,python,react,tauri,postgresql,sqlserver,mongodb,docker,aws,git,github,arch&perline=8" alt="Software Engineering tech icons" />
   </a>
 </p>
 
 <h4 align="center">🤖 Automation Engineering</h4>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,matlab&perline=5" alt="Automation Engineering tech icons" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,assembly,arduino,raspberrypi,matlab&perline=6" alt="Automation Engineering tech icons" />
   </a>
 </p>
 
@@ -35,14 +35,4 @@
 </p>
 
 <h3 align="center">🤝 Connect with Me</h3>
-<p align="center">
-  <a href="https://t.me/krlosjortiz" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge" alt="Telegram">
-  </a>
-  <a href="mailto:ortizdcj@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/carlosj-ortiz/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+<p align="center"><a href="https://t.me/krlosjortiz" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" height="32"></a>&nbsp;<a href="mailto:ortizdcj@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/carlosj-ortiz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="32"></a></p>
