@@ -6,7 +6,7 @@
 
 ### 🧑 About Me
 
-- 🎓 Automatic Engineer from **CUJAE** — Havana, 2019
+- 🎓 Automatic Engineer from **CUJAE**
 - 💼 Currently Senior Software Engineer at **Treew**, building backend microservices
 - ⚡ Roots in automation: SCADA, PLCs, microcontrollers and home automation
 - 🧭 Always pointed at the next side project
