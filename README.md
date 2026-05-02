@@ -8,8 +8,8 @@
 
 - 🎓 Automatic Engineer from **CUJAE** — Havana, 2019
 - 💼 Currently Senior Software Engineer at **Treew**, building backend microservices
-- ⚡ Past life: SCADA, Modbus and IEC 60870-5-104 — configured control systems across **72 substations** feeding Cuba's national power grid
-- 🧭 Believer in fundamentals over trends — concepts before code
+- ⚡ Roots in automation: SCADA, PLCs, microcontrollers and home automation
+- 🧭 Always pointed at the next side project
 - 🦀 Particularly fond of Rust
 
 <h3 align="center">💪 Skills</h3>
